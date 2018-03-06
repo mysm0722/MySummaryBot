@@ -1,6 +1,9 @@
 # MySummaryBot
 Text Contents Summary Bot Service
 
+# NCP My Contents Summary Bot
+https://mysm0722.gitbooks.io/my-project-book/ncp-my-contents-summary-bot.html
+
 # Use TextRank Module
 https://github.com/theeluwin/textrankr
 
