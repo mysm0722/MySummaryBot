@@ -11,8 +11,8 @@ const cheerio = require('cheerio');
 var PythonShell = require('python-shell');
 
 var app = express();
-var client_id = 'EEMXt6n2ZpNPF3noBdSI';
-var client_secret = 'Tki7JNup5S';
+var client_id = '{YOUR_CLIENT_ID}';
+var client_secret = '{YOUR_SECRET_KEY}';
 
 app.get('/summaryContens/:query/:en_file', function (req, res) {
 
