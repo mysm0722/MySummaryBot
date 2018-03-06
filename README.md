@@ -1,6 +1,9 @@
 # MySummaryBot
 Text Contents Summary Bot Service
 
+# Use TextRank Module
+https://github.com/theeluwin/textrankr
+
 # NPM Install
 $ npm install
 
